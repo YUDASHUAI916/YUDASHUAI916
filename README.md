@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dashuai Yu.
 - 👀 I’m interested in python programming & computer vision.
-- 💞️ I’m AI intern in BSH China since Sept. 19 2022. 
+- 💞️ I’m AI intern in BSH China(A company of the Bosch Group) since Sept. 19 2022. 
 - 📫 dashuai916@gmail.com.
 
 <!---
